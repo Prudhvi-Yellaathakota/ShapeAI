@@ -1,0 +1,8 @@
+Enter the city name: tirupati
+-------------------------------------------------------------
+Weather Stats for - TIRUPATI  || 23 Jun 2021 | 03:05:06 PM
+-------------------------------------------------------------
+Current temperature is: 29.57 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 62 %
+Current wind speed    : 4.63 kmph
